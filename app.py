@@ -7,9 +7,9 @@ genai.configure(api_key="AQ.Ab8RN6JdBA2J2HnP7tBurg-lSfoa_Gqf7Ii3NR8mLTPavhIcdA")
 
 model = genai.GenerativeModel("gemini-2.5-flash")
 
-st.set_page_config(page_title="AI Learning Buddy Pallavi", page_icon="🎓")
+st.set_page_config(page_title="AI Learning Buddy  Agesta Jenifer", page_icon="🎓")
 
-st.title("🎓 AI Learning Buddy Pallavi")
+st.title("🎓 AI Learning Buddy Agesta Jenifer")
 
 topic = st.text_input("Enter a Topic")
 
